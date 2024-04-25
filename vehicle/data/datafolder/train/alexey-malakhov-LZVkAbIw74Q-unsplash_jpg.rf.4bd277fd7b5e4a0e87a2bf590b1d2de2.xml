@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>alexey-malakhov-LZVkAbIw74Q-unsplash_jpg.rf.4bd277fd7b5e4a0e87a2bf590b1d2de2.jpg</filename>
+	<path>alexey-malakhov-LZVkAbIw74Q-unsplash_jpg.rf.4bd277fd7b5e4a0e87a2bf590b1d2de2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>356</xmin>
+			<xmax>819</xmax>
+			<ymin>560</ymin>
+			<ymax>1178</ymax>
+		</bndbox>
+	</object>
+</annotation>

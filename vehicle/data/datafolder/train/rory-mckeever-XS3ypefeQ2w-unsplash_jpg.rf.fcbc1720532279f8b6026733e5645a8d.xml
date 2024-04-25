@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rory-mckeever-XS3ypefeQ2w-unsplash_jpg.rf.fcbc1720532279f8b6026733e5645a8d.jpg</filename>
+	<path>rory-mckeever-XS3ypefeQ2w-unsplash_jpg.rf.fcbc1720532279f8b6026733e5645a8d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>373</xmin>
+			<xmax>1575</xmax>
+			<ymin>285</ymin>
+			<ymax>1627</ymax>
+		</bndbox>
+	</object>
+</annotation>

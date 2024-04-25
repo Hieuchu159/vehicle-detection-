@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>graham-mansfield-UDTSpHlYKGw-unsplash_jpg.rf.daeb97e7c1f83c8d27a6d363e963b531.jpg</filename>
+	<path>graham-mansfield-UDTSpHlYKGw-unsplash_jpg.rf.daeb97e7c1f83c8d27a6d363e963b531.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1510</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>375</xmin>
+			<xmax>1102</xmax>
+			<ymin>1018</ymin>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

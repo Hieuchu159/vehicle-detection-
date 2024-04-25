@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>spencer-davis-_0wuuvVeEdc-unsplash_jpg.rf.bbcbb3aae139eeef9d6a168f38950279.jpg</filename>
+	<path>spencer-davis-_0wuuvVeEdc-unsplash_jpg.rf.bbcbb3aae139eeef9d6a168f38950279.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1638</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>439</xmin>
+			<xmax>1154</xmax>
+			<ymin>770</ymin>
+			<ymax>1543</ymax>
+		</bndbox>
+	</object>
+</annotation>

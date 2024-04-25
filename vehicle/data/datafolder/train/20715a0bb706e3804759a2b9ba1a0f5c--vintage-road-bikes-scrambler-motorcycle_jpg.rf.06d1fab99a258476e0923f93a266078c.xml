@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20715a0bb706e3804759a2b9ba1a0f5c--vintage-road-bikes-scrambler-motorcycle_jpg.rf.06d1fab99a258476e0923f93a266078c.jpg</filename>
+	<path>20715a0bb706e3804759a2b9ba1a0f5c--vintage-road-bikes-scrambler-motorcycle_jpg.rf.06d1fab99a258476e0923f93a266078c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>124</xmax>
+			<ymin>130</ymin>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

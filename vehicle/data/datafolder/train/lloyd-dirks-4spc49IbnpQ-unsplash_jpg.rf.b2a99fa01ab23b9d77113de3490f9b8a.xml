@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>lloyd-dirks-4spc49IbnpQ-unsplash_jpg.rf.b2a99fa01ab23b9d77113de3490f9b8a.jpg</filename>
+	<path>lloyd-dirks-4spc49IbnpQ-unsplash_jpg.rf.b2a99fa01ab23b9d77113de3490f9b8a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1365</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>338</xmin>
+			<xmax>1063</xmax>
+			<ymin>1016</ymin>
+			<ymax>1637</ymax>
+		</bndbox>
+	</object>
+</annotation>
